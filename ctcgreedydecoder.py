@@ -1,9 +1,5 @@
 # Copyright huaqiaoz
 
-# DEFINE_string(m_td, "", text_detection_model_message);
-# DEFINE_string(m_tr, "", text_recognition_model_message);
-# DEFINE_string(m_tr_ss, "0123456789abcdefghijklmnopqrstuvwxyz", text_recognition_model_symbols_set_message);
-
 import  numpy as np
 import math,sys
 
