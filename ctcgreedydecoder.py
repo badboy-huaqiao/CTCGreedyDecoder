@@ -4,7 +4,6 @@ import  numpy as np
 import math,sys
 
 alphabet = "0123456789abcdefghijklmnopqrstuvwxyz"
-pay_symbol = "#"
 
 kPadSymbol = '#'
 
